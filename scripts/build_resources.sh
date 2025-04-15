@@ -30,8 +30,8 @@ check_success() {
   fi
 }
 
-# printf "Building the splash page -"
-# cookiecutter ../. -f --no-input -o ../book/_build
+printf "Building the splash page -"
+cookiecutter ../. -f --no-input -o ../book/_build
 
 # check_success
 
