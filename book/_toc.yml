@@ -10,6 +10,11 @@ parts:
     - title: Team
       url: https://icesat-2-2025.hackweek.io/index.html?jump_to=team
     - file: CoC
+- caption: Logistics
+  chapters:
+    - file: logistics/index
+    - file: logistics/venue
+    - file: logistics/travel
 - caption: Preparation
   chapters:
     - file: preliminary/index
