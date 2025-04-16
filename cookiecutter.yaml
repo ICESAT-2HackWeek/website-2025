@@ -17,9 +17,7 @@ banner:
 # The opening session of the event with UTC offset
 event_countdown: "2025-08-18T08:30:00-07:00"
 about:
-  description: Hackweeks are participant-driven events that strive to create
-    welcoming spaces for participants to learn new things, build community and
-    gain hands-on experience with collaboration and team science. The title of  
+  description: The title of  
    this year's event is “Streamlining and expanding ICESat-2 
    tooling and workflows across libraries and missions”. The focus will be on 
    streamlining (via hacking/project work) the current ecosystem of ICESat-2 
@@ -28,7 +26,7 @@ about:
    (especially NISAR, but also GEDI, SnowEx, etc.).
   learn_more: https://escience.washington.edu/using-data-science/hackweeks
   links:
-    - url: 'https://2025.hackweek.io/'
+    - url: 'https://icesat-2-2025.hackweek.io/'
       title: NASA Earth Sciences Hackweek 2025
       new_window: True
 applicant_info: The ICESat-2 Hackweek 2025 will take place August 2025 in person
