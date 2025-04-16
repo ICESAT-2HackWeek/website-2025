@@ -1,5 +1,5 @@
 repo_directory: html
-name: ICESat-2 Hackweek 2025
+name: ICESat-2 Hackweek
 apply:
   url: '#'
   title: Applications by invitation only
@@ -28,8 +28,8 @@ about:
    (especially NISAR, but also GEDI, SnowEx, etc.).
   learn_more: https://escience.washington.edu/using-data-science/hackweeks
   links:
-    - url: 'https://2024.hackweek.io/'
-      title: NASA Earth Sciences Hackweek 2024
+    - url: 'https://2025.hackweek.io/'
+      title: NASA Earth Sciences Hackweek 2025
       new_window: True
 applicant_info: The ICESat-2 Hackweek 2025 will take place August 2025 in person
    in Seattle, WA. Invitations will be sent out in early May.
