@@ -5,12 +5,16 @@ format: jb-book
 parts:
 - caption: Details
   chapters:
-    - file: logistics
     - title: Schedule
-      url: https://uwhackweek.github.io/jupyterbook-template/index.html?jump_to=schedule
+      url: https://icesat-2-2025.hackweek.io/index.html?jump_to=schedule
     - title: Team
-      url: https://uwhackweek.github.io/jupyterbook-template/index.html?jump_to=team
+      url: https://icesat-2-2025.hackweek.io/index.html?jump_to=team
     - file: CoC
+- caption: Logistics
+  chapters:
+    - file: logistics/index
+    - file: logistics/venue
+    - file: logistics/travel
 - caption: Preparation
   chapters:
     - file: preliminary/index
@@ -28,5 +32,5 @@ parts:
   chapters:
     - file: reference/glossary
     - file: reference/bibliography
+    - file: reference/IS2-resources
     - file: reference/questions
-
