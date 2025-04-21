@@ -9,7 +9,7 @@ For your planning purposes, here is what we know as of mid-April 2025:
 This will be largely driven by total attendance size.
 3. Updated information will be posted here listing arrival instructions and other 
 specifics as the details are finalized. If in doubt or if you have any questions, reach 
-out to [Mark Welden-Smith](mailto:escience-hackweks@uw.edu) on email or DM via 
+out to [Mark Welden-Smith](mailto:escience-hackweeks@uw.edu) on email or DM via 
 [ICESAT-2 Slack](https://icesat2hackweek.slack.com/).
 ```
 
