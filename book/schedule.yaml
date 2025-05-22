@@ -1,5 +1,270 @@
 timezone: UTC -7 (Pacific Daylight Time)
 tabs:
-- title: Schedule is in development!
-  date: Monday 18 August
-
+  - title: Day 1
+    date: Monday 18 August
+    contents:
+      - time: 9:00 - 9:30
+        location: eScience Common Area
+        title: Welcome to ICESat-2 Hackweek
+        description: Getting to know each other and setting the stage for our work together.
+        leads:
+          - Anthony Arendt
+          - Jessica Scheick
+          - Mark Welden-Smith
+      - time: 9:30 - 10:00
+        location: eScience Seminar Room
+        title: Update on ICESat-2 Data Products
+        description: Summary of latest advancements in ICESat-2 higher-order products and algorithms.
+        leads:
+          - Ben Smith
+          - Tyler Sutterley
+      - time: 10:00 - 10:30
+        location: eScience Seminar Room
+        title: Update on earthaccess 
+        description: Summary of latest developments and areas for improvement.
+        leads:
+          - Luis Lopez
+          - Andy Barrett
+      - time: 10:30 - 11:00
+        location: eScience Common Area
+        title: Movement and coffee break
+        description:
+        leads: [ ]
+      - time: 11:00 - 12:00
+        location: eScience Common Area
+        title: Formation of Teams
+        description: We'll review GitHub issues and arrange these into projects for the week.
+        leads:
+          - Scott Henderson
+          - Anthony Arendt
+      - time: 12:00 - 1:00
+        location: eScience Common Area
+        title: Lunch
+        description:
+        leads: [ ]
+      - time: 1:00 - 1:30
+        location: eScience, various workspaces
+        title: Project Set up and Logistics
+        description: Meet your teammates, figure out how/when you want to meet and communicate.
+        leads:
+          - Mark Welden-SMith
+          - Anthony Arendt
+      - time: 1:30 - 3:00
+        location: eScience, various workspaces
+        title: Project Work
+        description: 
+        leads: [ ]
+      - time: 3:00 - 3:15
+        location: eScience Common Area
+        title: Movement and coffee break
+        description:
+        leads: [ ]
+      - time: 3:15 - 3:45
+        location: eScience Common Area
+        title: Group Check-In
+        description: Brief report-out to discuss any issue or project configuration refinements needed.
+        leads: 
+          - Anthony Arendt
+      - time: 3:45 - 5:00
+        location: eScience, various workspaces
+        title: Project Work
+        description: 
+        leads: [ ]
+  - title: Day 2
+    date: Tuesday 19 August
+    contents:
+      - time: 9:00 - 9:45
+        location: eScience Seminar Room
+        title: Best Practices for Collaborative Development
+        description: Tutorial on latest recommendations for commit messages, issue tracking, testing and packaging.
+        leads:
+          - Don Setiawan
+      - time: 9:45 - 10:30
+        location: eScience Common Area
+        title: Project Work
+        description: 
+        leads: [ ]
+      - time: 10:30 - 11:00
+        location: eScience Common Area
+        title: Movement and coffee break
+        description:
+        leads: [ ]
+      - time: 11:00 - 12:00
+        location: eScience Common Area
+        title: Project Work / Optional Research Software Engineer Office Hours
+        description: eScience staff available for questions on topics of software engineering best practices.
+        leads:
+          - Don Setiawan
+      - time: 12:00 - 1:00
+        location: eScience Common Area
+        title: Lunch
+        description:
+        leads: [ ]
+      - time: 1:00 - 3:00
+        location: eScience, various workspaces
+        title: Project Work
+        description: 
+        leads: [ ]
+      - time: 3:00 - 3:15
+        location: eScience Common Area
+        title: Movement and coffee break
+        description:
+        leads: [ ]
+      - time: 3:15 - 5:00
+        location: eScience, various workspaces
+        title: Project Work
+        description: 
+        leads: [ ]
+  - title: Day 3
+    date: Wednesday 20 August
+    contents:
+      - time: 9:00 - 9:30
+        location: eScience Common Area
+        title: Project Stand-Up
+        description: What is working well? Where are you getting stuck?
+        leads:
+          - Anthony Arendt
+          - Jessica Scheick
+      - time: 9:30 - 10:00
+        location: eScience Seminar Room
+        title: LLMs, AI Agents and Model Context Protocols 
+        description: We will explore possible applications of these new tools for ICESat-2 Workflows.
+        leads:
+          - Cordero Core
+      - time: 10:00 - 10:30
+        location: eScience, various workspaces
+        title: Project Work 
+        description: 
+        leads: [ ]
+      - time: 10:30 - 11:00
+        location: eScience Common Area
+        title: Movement and coffee break
+        description:
+        leads: [ ]
+      - time: 11:00 - 12:00
+        location: eScience Common Area
+        title: Project Work / Optional Research Software Engineer AI Office Hours
+        description: eScience staff available for questions on topics of LLM and AI Agents.
+        leads:
+          - Cordero Core
+      - time: 12:00 - 1:00
+        location: eScience Common Area
+        title: Lunch
+        description:
+        leads: [ ]
+      - time: 1:00 - 3:00
+        location: eScience, various workspaces
+        title: Project Work
+        description: 
+        leads: [ ]
+      - time: 3:00 - 3:15
+        location: eScience Common Area
+        title: Movement and coffee break
+        description:
+        leads: [ ]
+      - time: 3:15 - 5:00
+        location: eScience Meeting Room
+        title: Optional Industry Tag-Up 
+        description: 
+        leads: [ ]
+  - title: Day 4
+    date: Thursday 21 August
+    contents:
+      - time: 9:00 - 9:30
+        location: eScience Common Area
+        title: Project Stand-Up
+        description: What is working well? Where are you getting stuck?
+        leads:
+          - Anthony Arendt
+          - Jessica Scheick
+      - time: 9:30 - 10:00
+        location: eScience Common Area
+        title: Preparing for presentations on Friday 
+        description: We will outline expectations for the project presentations on Day 5.
+        leads:
+          - Anthony Arendt
+          - Jessica Scheick
+          - Mark Welden-Smith
+      - time: 10:00 - 10:30
+        location: eScience, various workspaces
+        title: Project Work 
+        description: 
+        leads: [ ]
+      - time: 10:30 - 11:00
+        location: eScience Common Area
+        title: Movement and coffee break
+        description:
+        leads: [ ]
+      - time: 11:00 - 12:00
+        location: eScience Common Area
+        title: Project Work / Optional eScience Office Hours
+        description: eScience staff available for any questions.
+        leads:
+          - Scott Henderson
+      - time: 12:00 - 1:00
+        location: eScience Common Area
+        title: Lunch
+        description:
+        leads: [ ]
+      - time: 1:00 - 3:00
+        location: eScience, various workspaces
+        title: Project Work
+        description: 
+        leads: [ ]
+      - time: 3:00 - 3:15
+        location: eScience Common Area
+        title: Movement and coffee break
+        description:
+        leads: [ ]
+      - time: 3:15 - 5:00
+        location: eScience, various workspaces
+        title: Project Work
+        description: 
+        leads: [ ]
+  - title: Day 5
+    date: Friday 22 August
+    contents:
+      - time: 9:00 - 10:00
+        location: eScience Common Area
+        title: Hackweek Recap
+        description: Facilitated session sharing insights about our community process and setting the stage for next steps.
+        leads:
+          - Anthony Arendt
+          - Jessica Scheick
+          - Mark Welden-Smith
+      - time: 10:00 - 10:30
+        location: eScience Seminar Room
+        title: Hackweek survey and Feedback
+        description: 
+        leads:
+          - Mark Welden-Smith
+      - time: 10:30 - 11:00
+        location: eScience Common Area
+        title: Movement and coffee break
+        description:
+        leads: [ ]
+      - time: 11:00 - 12:00
+        location: eScience Seminar Room
+        title: Project Presentations
+        description: Each team has 20 minutes to share findings and discuss ideas for next steps. 
+        leads: [ ]
+      - time: 12:00 - 1:00
+        location: eScience Common Area
+        title: Lunch
+        description:
+        leads: [ ]
+      - time: 1:00 - 3:00
+        location: eScience Seminar Room
+        title: Project Presentations and wrap-up
+        description: Each team has 20 minutes to share findings and discuss ideas for next steps. 
+        leads: [ ]
+      - time: 3:00 - 3:15
+        location: eScience Common Area
+        title: Movement and coffee break
+        description:
+        leads: [ ]
+      - time: 3:15 - 5:00
+        location: TBD
+        title: Optional social activity.
+        description: Group outing to a nearby restauant.
+        leads: [ ]
