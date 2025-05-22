@@ -79,6 +79,7 @@ tabs:
         description: Tutorial on latest recommendations for commit messages, issue tracking, testing and packaging.
         leads:
           - Don Setiawan
+          - Anshul Tambay
       - time: 9:45 - 10:30
         location: eScience Common Area
         title: Project Work
@@ -95,6 +96,7 @@ tabs:
         description: eScience staff available for questions on topics of software engineering best practices.
         leads:
           - Don Setiawan
+          - Anshul Tambay
       - time: 12:00 - 1:00
         location: eScience Common Area
         title: Lunch
