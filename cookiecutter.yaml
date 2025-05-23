@@ -17,12 +17,12 @@ banner:
 # The opening session of the event with UTC offset
 event_countdown: "2025-08-18T08:30:00-07:00"
 about:
-  description: The title of  
-   this year's event is “Streamlining and expanding ICESat-2 
-   tooling and workflows across libraries and missions”. The focus will be on 
-   streamlining (via hacking/project work) the current ecosystem of ICESat-2 
-   tooling and creating a vision (and maybe some prototypes!) for how that 
-   ecosystem can evolve and expand to include more missions and tools 
+  description: In this hackweek we will focus on software development in support
+   of the ICESat-2 mission. We'll center most of our work on streamlining
+   data access patterns within the NASA earthaccess library. Our goal is to 
+   make it easier for people to access ICESat-2 data and make informed decisions
+   on which product, and which software solution, best supports their reserach 
+   needs. We will also think about how to integrate data across multiple 
    (especially NISAR, but also GEDI, SnowEx, etc.).
   learn_more: https://escience.washington.edu/using-data-science/hackweeks
   links:
@@ -30,7 +30,10 @@ about:
       title: NASA Earth Sciences Hackweek 2024
       new_window: True
 applicant_info: The ICESat-2 Hackweek 2025 will take place August 2025 in person
-   in Seattle, WA. Invitations will be sent out in early May.
+   in Seattle, WA. We are in the process of inviting a team of attendees and 
+   will finalize the list in mid-June. We are welcoming participants who have
+   experience in software development using Python, or who are actively 
+   developing new skills to engage in open source software collaborations.
 team:
   !include team/team.yaml
 schedule:
