@@ -6,9 +6,9 @@ parts:
 - caption: Details
   chapters:
     - title: Schedule
-      url: https://icesat-2.hackweek.io/index.html?jump_to=schedule
+      url: https://2025.hackweek.io/index.html?jump_to=schedule
     - title: Team
-      url: https://icesat-2.hackweek.io/index.html?jump_to=team
+      url: https://2025.hackweek.io/index.html?jump_to=team
     - file: CoC
 - caption: Logistics
   chapters:
