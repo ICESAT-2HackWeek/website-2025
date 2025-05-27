@@ -14,7 +14,7 @@ parse:
     dates: "Aug 18-22, 2025"
     github_org_url: "https://github.com/ICESAT-2HackWeek"
     book_repo: "website-2025"
-    website_url: "https://icesat-2-2025.hackweek.io/"
+    website_url: "2025.hackweek.io/"
     jupyterhub_url: "https://hub.cryointhecloud.com/"
     slack_workspace_url: "https://2025-uw-hackweek.slack.com"
     contact_email: "escience-hackweeks@uw.edu"
