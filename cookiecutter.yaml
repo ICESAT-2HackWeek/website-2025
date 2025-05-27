@@ -1,8 +1,9 @@
 repo_directory: html
 name: ICESat-2 Hackweek
-apply:
-  url: '#'
-  title: Applications by invitation only
+# remove the apply button temporarily
+#apply:
+#  url: '#'
+#  title: Applications by invitation only
 banner:
   description: Building Open Source Software Together
   start_date: 18 August
@@ -42,7 +43,7 @@ sponsors:
   description: ''
   organizations:
   - name: eScience Institute
-    website: ''
+    website: 'https://escience.washington.edu/'
     logo_url: https://escience.washington.edu/wp-content/uploads/2015/10/Logo_eScience-stacked.png
   - name: CryoCloud
     website: https://book.cryointhecloud.com/intro.html
