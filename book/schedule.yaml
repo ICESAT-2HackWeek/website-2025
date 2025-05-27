@@ -129,10 +129,9 @@ tabs:
           - Jessica Scheick
       - time: 9:30 - 10:00
         location: eScience Seminar Room
-        title: LLMs, AI Agents and Model Context Protocols 
-        description: We will explore possible applications of these new tools for ICESat-2 Workflows.
-        leads:
-          - Cordero Core
+        title: tutorial placeholder 
+        description: 
+        leads: [ ]
       - time: 10:00 - 10:30
         location: eScience, various workspaces
         title: Project Work 
@@ -145,10 +144,10 @@ tabs:
         leads: [ ]
       - time: 11:00 - 12:00
         location: eScience Common Area
-        title: Project Work / Optional Research Software Engineer AI Office Hours
-        description: eScience staff available for questions on topics of LLM and AI Agents.
+        title: Project Work / Optional Office Hours
+        description: eScience staff available for questions.
         leads:
-          - Cordero Core
+          - Anthony Arendt
       - time: 12:00 - 1:00
         location: eScience Common Area
         title: Lunch
