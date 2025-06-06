@@ -1,0 +1,21 @@
+# Replace CAPITALIZED placeholders with your info
+- title: Ben Smith
+  avatar: https://avatars.githubusercontent.com/smithb
+  role: Researcher
+  organizations:
+    - name: University of Washington APL Polar Science Center
+  bio: >
+    I'm a polar scientist interested in ice-sheet mass balance and remote sensing.  I've worked on the ICESat, ICESat-2 and IceBridge missions, and I've worked extensively with altimetry data from the Polar Geospatial Center and Cryosat-2.
+    
+  expertise:
+    - Python
+    - Altimetry
+    - Real-time data processing
+  social:
+    # Remove list item (- icon & link) if you don't have an account
+    - icon: github
+      link: https://github.com/smithb
+  user_groups:
+    # From https://escience.washington.edu/using-data-science/hackweeks/planning/hackweek-roles
+    - Project lead
+    - Project consultant
