@@ -13,7 +13,7 @@ In this hackweek we will focus on software development in support
 of the ICESat-2 mission. We'll center most of our work on streamlining
 data access patterns within the NASA earthaccess library. Our goal is to 
 make it easier for people to access ICESat-2 data and make informed decisions
-on which product, and which software solution, best supports their reserach 
+on which product, and which software solution, best supports their research 
 needs. We will also think about how to integrate data across multiple 
 (especially NISAR, but also GEDI, SnowEx, etc.).
 

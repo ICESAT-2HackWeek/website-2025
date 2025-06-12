@@ -10,7 +10,7 @@ Both [icepyx](https://icepyx.readthedocs.io/en/latest/community/resources.html) 
 We encourage you to check them out, but have not recreated them here so you can always find the latest and greatest.
 
 ## Gallery of Tutorials
-The Organizing Team (OT) has compiled this gallery of their favorite tutorials and tools for getting and utilizing ICESat-2 data to help you find great example workflows from across disciplines.
+The Organizing Team has compiled this gallery of their favorite tutorials and tools for getting and utilizing ICESat-2 data to help you find great example workflows from across disciplines.
 
 ```{include} gallery.txt
 ```
