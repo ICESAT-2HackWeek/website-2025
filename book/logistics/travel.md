@@ -32,7 +32,7 @@ booking directly through the airline you're seeking to fly with.
 Also, it is important to provide comparable travel fare information (ie. to 
 compare with travel costs in the August 17-23 timeframe) during the 
 reimbursement process if traveling to Seattle before August 17, 2025 or 
-departing from August 23, 2025. This timeframe is considered personal time.
+departing after August 23, 2025. This timeframe is considered personal time.
 
 If in doubt or if you have any questions, reach out to 
 [Mark Welden-Smith](mailto:escience-hackweeks@uw.edu) or DM via 
