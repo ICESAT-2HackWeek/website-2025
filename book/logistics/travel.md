@@ -19,7 +19,7 @@ Attendees flying to Seattle for the duration of the event are entitled to
 receive travel funding support to offset or cover the expense of a 
 return trip plane ticket. Please refer to 
 [this Google Doc](https://docs.google.com/document/d/1l8qpIsUf-l6GNiCsit3HS2_lTsKkl-YbqTcYsLP8N0s/edit?tab=t.0) 
-outlining the process for reimbursement and the amount of funds avialable. 
+outlining the process for reimbursement and the amount of funds available. 
 
 Note: to gain access to the Google Doc above use the email address used during 
 the event registration process.
@@ -56,7 +56,7 @@ campus at [1201 NE Campus Pkwy, Seattle, WA 98105](https://maps.app.goo.gl/Gy2pu
 - Lander Hall Conference Desk is open 7 a.m.-10 p.m., seven days a week.
 
 **Late Arrivals**  
-If you expect to arrive late for check-in, or after after the conference 
+If you expect to arrive late for check-in, or after the conference 
 desk has closed, please call Resident Conference Assistant (RCA) on-call at
 206.543.1000 and follow the prompts and indicate that you are checking in on 
 west campus.
