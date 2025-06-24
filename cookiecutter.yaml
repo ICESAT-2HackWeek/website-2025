@@ -49,7 +49,7 @@ sponsors:
     website: 'https://icesat-2.gsfc.nasa.gov/mission'
     logo_url: https://github.com/ICESAT-2HackWeek/icesat-2hackweek.github.io/raw/2022.03.01/assets/images/ICESat2.png
   - name: CryoCloud
-    website: https://book.cryointhecloud.com/getting-started
+    website: 'https://book.cryointhecloud.com'
     logo_url: 'https://escience.washington.edu/wp-content/uploads/2025/06/cryocloud_logo.png'
 footer:
   social:
