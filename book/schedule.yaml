@@ -128,22 +128,29 @@ tabs:
           - Anthony Arendt
           - Jessica Scheick
       - time: 9:30 - 10:00
+        location: eScience, various workspaces
+        title: Project Work 
+        description: 
+        leads: [ ]
+      - time: 10:00 - 10:30
         location: eScience Seminar Room
         title: LLMs, AI Agents and Model Context Protocols 
         description: We will explore possible applications of these new tools for ICESat-2 Workflows.
         leads:
           - Cordero Core
-      - time: 10:00 - 10:30
-        location: eScience, various workspaces
-        title: Project Work 
-        description: 
-        leads: [ ]
       - time: 10:30 - 11:00
         location: eScience Common Area
-        title: Movement and coffee break
-        description:
+        title: Working coffee break 
+        description: We will come up with our own AI applications and user stories.
         leads: [ ]
-      - time: 11:00 - 12:00
+      - time: 11:00 - 11:30
+        location: eScience Seminar Room
+        title: AI User stories for Cryospheric Science
+        description: Group discussions.   
+        leads:
+          - Cordero Core
+          - Don Setiawan
+      - time: 11:30 - 12:00
         location: eScience Common Area
         title: Project Work / Optional Research Software Engineer AI Office Hours
         description: eScience staff available for questions on topics of LLM and AI Agents.
