@@ -1,0 +1,27 @@
+- title: Cordero Core
+  avatar: https://avatars.githubusercontent.com/u/127983572?v=4
+  role: Senior Research Software Engineer, SSEC
+  organizations:
+    - name: Scientific Software Engineering Center
+      url: https://escience.washington.edu/member/don-setiawan/
+    - name: eScience Institute
+    - name: University of Washington
+  bio: Cordero Core is an accomplished Sr. Software Engineer with over 13 years of 
+    experience in the software development industry. Throughout his career, Cordero 
+    has established himself as an expert in software and machine learning applications. 
+    He has successfully delivered innovative software solutions for diverse industries, 
+    including healthcare, e-commerce, aerospace, and security.
+  expertise:
+    - Computer Vision
+    - Data Engineering / Data Science
+    - Software Engineering
+    - Generative AI
+    - Databases
+    - Computational Biophysics
+    - Python
+  social:
+    - icon: github
+      link: https://github.com/cdcore09
+  user_groups:
+    - Technology Specialist
+
