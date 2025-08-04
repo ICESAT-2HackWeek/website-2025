@@ -1,0 +1,22 @@
+- title: Anshul Tambay
+  avatar: https://avatars.githubusercontent.com/u/13204058?v=4
+  role: Technical Program Manager, SSEC
+  organizations:
+    - name: Scientific Software Engineering Center
+      url: https://escience.washington.edu/member/don-setiawan/
+    - name: eScience Institute
+    - name: University of Washington
+  bio: Anshul Tambay is a Technical Program Manager with the UW Scientific Software 
+    Engineering Center (SSEC) at the eScience Institute. He aims to develop open-source 
+    infrastructure that bolsters research across a variety of disciplines. 
+  expertise:
+    - Project management
+    - Tutorial development
+    - GitHub for Project Management
+    - R Programming
+  social:
+    - icon: github
+      link: https://github.com/atambay37
+  user_groups:
+    - Technology Specialist
+
